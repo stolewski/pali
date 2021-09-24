@@ -1,0 +1,25 @@
+body {
+    font-family: 'Russo One', sans-serif;
+    color: cadetblue;
+    background: url(img/bg.jpeg) top/cover;
+}
+h1 {
+    font-size: 64px;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 35px;
+}
+p {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#modalSuc {
+  color: #198754;
+}
+#modalErr {
+  color: #dc3545;
+}
+#modalFail {
+  color: #6c757d;
+}
