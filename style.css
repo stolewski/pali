@@ -23,3 +23,13 @@ p {
 #modalFail {
   color: #6c757d;
 }
+#reset {
+  display: block;
+  margin: 0 auto;
+}
+
+@media (max-width: 575px) {
+  h1 {
+    font-size: 36px;
+  }
+}
