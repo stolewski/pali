@@ -21,6 +21,9 @@ p {
     text-align: center;
     margin-bottom: 50px;
 }
+.btn-outline-secondary {
+  color: #fff;
+}
 #modalSuc {
   color: #198754;
 }
